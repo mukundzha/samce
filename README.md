@@ -10,7 +10,7 @@ a tiny, beautiful, no-config text editor.
 - **Beautiful.** Nice themes and a clean screen, with nothing but your text.
 - **No config.** Open it and type. It works out of the box.
 
-## Not goals
+## Not goals (for now)
 
 - No plugins
 - No tabs
